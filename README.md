@@ -4,10 +4,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://instagram.com/_raihanmd" target="_blank">
+  <a href="https://instagram.com/_raihanmd" target="__blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCT4aPXZrfCaKjYMCSGqUUEQ" target="_blank">
+  <a href="https://www.youtube.com/channel/UCT4aPXZrfCaKjYMCSGqUUEQ" target="__blank">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="#">
@@ -58,6 +58,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  ---
  
  ### :house: My Website :
- <a href="https://raihanmd.vercel.app" target="_blank">
+ <a href="https://raihanmd.vercel.app" target="__blank">
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
  </a>
