@@ -31,7 +31,7 @@ As a freelancer, I’ve successfully contributed to a financial application for 
 
 <!-- <p align="left"> <a href="https://twitter.com/suthiono_irfan" target="blank"><img src="https://img.shields.io/twitter/follow/suthiono_irfan?logo=twitter&style=for-the-badge" alt="suthiono_irfan" /></a> </p> -->
 
-- 🔭 I’m currently working at [Umrohin](https://umroh.in)
+- 🔭 I’m currently working at [Umrohin](https://umroh.in){:target="_blank"}
 
 - 🌱 I’m currently learning **Roblox Studio,**
 
@@ -40,7 +40,7 @@ As a freelancer, I’ve successfully contributed to a financial application for 
 
 - 🤝 I’m looking for help with [NanamiGPT](https://nanami.irfanks.site) -->
 
-- 👨‍💻 All of my projects are available at [https://raihanmd.vercel.app](https://raihanmd.vercel.app)
+- 👨‍💻 All of my projects are available at [https://raihanmd.vercel.app](https://raihanmd.vercel.app){:target="_blank"}
 
 - 💬 Ask me about **Nextjs, Nextjs, Framer Motion, Typescript, etc**
 
