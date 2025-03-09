@@ -1,8 +1,6 @@
+<h1 align="center">Hi 👋, I'm Muhammad Raihan Firdaus</h1>
+<h3 align="center">A passionate Fullstack developer from Indonesia</h3>
 
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 <div id="badges" align="center">
   <a href="https://instagram.com/_raihanmd" target="__blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -17,19 +15,36 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=raihanmd&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Hello there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raihanmd" alt="raihanmd" /></a></p>
 </div>
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I’m a passionate Web Developer specializing in frontend development with a strong command of React, TypeScript, and Next.js. My journey in tech started with a deep interest in creating user-friendly and visually appealing interfaces, which I’ve honed through various projects, including building responsive and modern websites.
 
-- :zap: In my free time, I experimenting with various coding languages and frameworks.
+In addition to my frontend expertise, I also have solid experience in backend development, particularly with Golang and Nest.js. I enjoy working on both sides of the stack, ensuring seamless integration and efficient performance across the entire application.
 
----
+My academic background includes graduating top of my class in Computer and Network Engineering from SMK Miftahussalam Ciamis. I’ve also completed intensive training programs, including the Superbootcamp Hibah Disnaker Jawa Barat 2024, where I expanded my skills in Golang and Next.js.
+
+As a freelancer, I’ve successfully contributed to a financial application for a housing association by adding new features, designing database tables, and developing the admin dashboard UI. I’m always eager to learn new technologies and adapt to the ever-evolving landscape of web development.
+
+
+
+<!-- <p align="left"> <a href="https://twitter.com/suthiono_irfan" target="blank"><img src="https://img.shields.io/twitter/follow/suthiono_irfan?logo=twitter&style=for-the-badge" alt="suthiono_irfan" /></a> </p> -->
+
+- 🔭 I’m currently working at [Umrohin](https://umroh.in)
+
+- 🌱 I’m currently learning **Roblox Studio,**
+
+- ⚡ In my free time, I experimenting with various coding languages and frameworks.
+<!-- - 👯 I’m looking to collaborate on [NanamiGPT](https://nanami.irfanks.site)
+
+- 🤝 I’m looking for help with [NanamiGPT](https://nanami.irfanks.site) -->
+
+- 👨‍💻 All of my projects are available at [https://raihanmd.vercel.app](https://raihanmd.vercel.app)
+
+- 💬 Ask me about **Nextjs, Nextjs, Framer Motion, Typescript, etc**
+
+- 📫 How to reach me **mraihanf471@gmail.com**
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -48,16 +63,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
-
 ### :fire: My Stats :
-  <img src="https://github-readme-stats.vercel.app/api?username=raihanmd&theme=dracula"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=raihanmd" height="150" alt="languages graph"  />
- 
- 
- ---
- 
- ### :house: My Website :
- <a href="https://raihanmd.vercel.app" target="__blank">
-  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
- </a>
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raihanmd&show_icons=true&locale=en&layout=compact" alt="raihanmd" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raihanmd&show_icons=true&locale=en" alt="raihanmd" />
+</div>
+
+### ❤️‍🔥: My Streak :
+<div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raihanmd&" alt="raihanmd" />
+</div>
