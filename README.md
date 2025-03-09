@@ -17,7 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=raihanmd&style=flat-square&color=blue" alt=""/>
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raihanmd" alt="raihanmd" /></a></p>
 </div>
-
 ### :man_technologist: About Me :
 I’m a passionate Web Developer specializing in frontend development with a strong command of React, TypeScript, and Next.js. My journey in tech started with a deep interest in creating user-friendly and visually appealing interfaces, which I’ve honed through various projects, including building responsive and modern websites.
 
@@ -31,8 +30,7 @@ As a freelancer, I’ve successfully contributed to a financial application for 
 
 <!-- <p align="left"> <a href="https://twitter.com/suthiono_irfan" target="blank"><img src="https://img.shields.io/twitter/follow/suthiono_irfan?logo=twitter&style=for-the-badge" alt="suthiono_irfan" /></a> </p> -->
 
-- 🔭 I’m currently working at [Umrohin](https://umroh.in){:target="_blank"}
-
+- 🔭 I’m currently working at  <a href="https://umroh.in" target="__blank">Umrohin<a/>
 - 🌱 I’m currently learning **Roblox Studio,**
 
 - ⚡ In my free time, I experimenting with various coding languages and frameworks.
@@ -40,7 +38,7 @@ As a freelancer, I’ve successfully contributed to a financial application for 
 
 - 🤝 I’m looking for help with [NanamiGPT](https://nanami.irfanks.site) -->
 
-- 👨‍💻 All of my projects are available at [https://raihanmd.vercel.app](https://raihanmd.vercel.app){:target="_blank"}
+- 👨‍💻 All of my projects are available at <a href="https://raihanmd.vercel.app" target="__blank">https://raihanmd.vercel.app<a/>
 
 - 💬 Ask me about **Nextjs, Nextjs, Framer Motion, Typescript, etc**
 
