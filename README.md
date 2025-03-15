@@ -17,7 +17,9 @@
   <img src="https://komarev.com/ghpvc/?username=raihanmd&style=flat-square&color=blue" alt=""/>
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raihanmd" alt="raihanmd" /></a></p>
 </div>
+
 ### :man_technologist: About Me :
+
 I’m a passionate Web Developer specializing in frontend development with a strong command of React, TypeScript, and Next.js. My journey in tech started with a deep interest in creating user-friendly and visually appealing interfaces, which I’ve honed through various projects, including building responsive and modern websites.
 
 In addition to my frontend expertise, I also have solid experience in backend development, particularly with Golang and Nest.js. I enjoy working on both sides of the stack, ensuring seamless integration and efficient performance across the entire application.
@@ -25,6 +27,7 @@ In addition to my frontend expertise, I also have solid experience in backend de
 My academic background includes graduating top of my class in Computer and Network Engineering from SMK Miftahussalam Ciamis. I’ve also completed intensive training programs, including the Superbootcamp Hibah Disnaker Jawa Barat 2024, where I expanded my skills in Golang and Next.js.
 
 As a freelancer, I’ve successfully contributed to a financial application for a housing association by adding new features, designing database tables, and developing the admin dashboard UI. I’m always eager to learn new technologies and adapt to the ever-evolving landscape of web development.
+
 
 
 
