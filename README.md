@@ -34,7 +34,7 @@ As a freelancer, I’ve successfully contributed to a financial application for 
 <!-- <p align="left"> <a href="https://twitter.com/suthiono_irfan" target="blank"><img src="https://img.shields.io/twitter/follow/suthiono_irfan?logo=twitter&style=for-the-badge" alt="suthiono_irfan" /></a> </p> -->
 
 - 🔭 I’m currently working at  <a href="https://umroh.in" target="__blank">Umrohin<a/>
-- 🌱 I’m currently learning **Roblox Studio,**
+- 🌱 I’m currently learning **Microservices**
 
 - ⚡ In my free time, I experimenting with various coding languages and frameworks.
 <!-- - 👯 I’m looking to collaborate on [NanamiGPT](https://nanami.irfanks.site)
