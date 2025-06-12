@@ -46,7 +46,7 @@ As a freelancer, I’ve successfully contributed to a financial application for 
 
 - 👨‍💻 All of my projects are available at <a href="https://portfolio-sage-ten-60.vercel.app" target="__blank">https://portfolio-sage-ten-60.vercel.app<a/>
 
-- 💬 Ask me about **NEAR Protocol, Nextjs, Nextjs, Framer Motion, Typescript, etc**
+- 💬 Ask me about **NEAR Protocol, Nextjs, Nestjs, Typescript, etc**
 
 - 📫 How to reach me **mraihanf471@gmail.com**
 
