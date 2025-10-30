@@ -36,17 +36,17 @@ As a freelancer, I’ve successfully contributed to a financial application for 
 
 <!-- <p align="left"> <a href="https://twitter.com/suthiono_irfan" target="blank"><img src="https://img.shields.io/twitter/follow/suthiono_irfan?logo=twitter&style=for-the-badge" alt="suthiono_irfan" /></a> </p> -->
 
-- 🔭 I’m currently working at  <a href="https://umroh.in" target="__blank">Umrohin<a/>
+<!-- - 🔭 I’m currently working at  <a href="https://umroh.in" target="__blank">Umrohin<a/>
 - 🌱 I’m currently learning **NEAR Protocol**
 
 - ⚡ In my free time, I experimenting with various coding languages and frameworks.
-<!-- - 👯 I’m looking to collaborate on [NanamiGPT](https://nanami.irfanks.site)
+- 👯 I’m looking to collaborate on [NanamiGPT](https://nanami.irfanks.site)
+
+- 💬 Ask me about **NEAR Protocol, Nextjs, Nestjs, Typescript, etc**
 
 - 🤝 I’m looking for help with [NanamiGPT](https://nanami.irfanks.site) -->
 
-- 👨‍💻 All of my projects are available at <a href="https://portfolio-sage-ten-60.vercel.app" target="__blank">https://portfolio-sage-ten-60.vercel.app<a/>
-
-- 💬 Ask me about **NEAR Protocol, Nextjs, Nestjs, Typescript, etc**
+- 👨‍💻 All of my projects are available at <a href="https://raihanmd.vercel.app" target="__blank">https://raihanmd.vercel.app<a/>
 
 - 📫 How to reach me **mraihanf471@gmail.com**
 
