@@ -1,4 +1,4 @@
-<h3 align="center">Hi👋, I'm Muhammad Raihan Firdaus</h3>
+<!-- <h3 align="center">Hi👋, I'm Muhammad Raihan Firdaus</h3>
 <h3 align="center">A passionate Fullstack developer from Indonesia</h3>
 
 <div id="badges" align="center">
@@ -29,7 +29,7 @@ In addition to my frontend expertise, I also have solid experience in backend de
 
 My academic background includes graduating top of my class in Computer and Network Engineering from SMK Miftahussalam Ciamis. I’ve also completed intensive training programs, including the Superbootcamp Hibah Disnaker Jawa Barat 2024, where I expanded my skills in Golang and Next.js.
 
-As a freelancer, I’ve successfully contributed to a financial application for a housing association by adding new features, designing database tables, and developing the admin dashboard UI. I’m always eager to learn new technologies and adapt to the ever-evolving landscape of web development.
+As a freelancer, I’ve successfully contributed to a financial application for a housing association by adding new features, designing database tables, and developing the admin dashboard UI. I’m always eager to learn new technologies and adapt to the ever-evolving landscape of web development. -->
 
 
 
@@ -46,7 +46,7 @@ As a freelancer, I’ve successfully contributed to a financial application for 
 
 - 🤝 I’m looking for help with [NanamiGPT](https://nanami.irfanks.site) -->
 
-- 👨‍💻 All of my projects are available at <a href="https://raihanmd.vercel.app" target="__blank">https://raihanmd.vercel.app<a/>
+<!-- - 👨‍💻 All of my projects are available at <a href="https://raihanmd.vercel.app" target="__blank">https://raihanmd.vercel.app<a/>
 
 - 📫 How to reach me **mraihanf471@gmail.com**
 
@@ -77,4 +77,19 @@ As a freelancer, I’ve successfully contributed to a financial application for 
 ### ❤️‍🔥: My Streak :
 <div>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raihanmd&" alt="raihanmd" />
-</div>
+</div> -->
+
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=100277303" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=61570975&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @zakirkun" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=61570975&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+# Portfolio
+You can see my work here: <a href="[https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=100277303](https://raihanmd.vercel.app)" target="_blank" >https://raihanmd.vercel.app</a>
+
+# Contact
+You can contact me at: [mraihanf471@gmail.com](mailto:mraihanf471@gmail.com)
+
