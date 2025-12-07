@@ -27,7 +27,7 @@ I’m a passionate Web Developer specializing in frontend development with a str
 
 In addition to my frontend expertise, I also have solid experience in backend development, particularly with Golang and Nest.js. I enjoy working on both sides of the stack, ensuring seamless integration and efficient performance across the entire application.
 
-My academic background includes graduating top of my class in Computer and Network Engineering from SMK Miftahussalam Ciamis. I’ve also completed intensive training programs, including the Superbootcamp Hibah Disnaker Jawa Barat 2024, where I expanded my skills in Golang and Next.js.
+My academic background includes graduating top of my class in Computer and Network Engineering from SMK Miftahussalam Ciamis. I’ve also completed intensive training programs, including the Superbootcamp Hibah Disnaker Jawa Barat 2024, where I expanded my skills in Golang and Nextjs.
 
 As a freelancer, I’ve successfully contributed to a financial application for a housing association by adding new features, designing database tables, and developing the admin dashboard UI. I’m always eager to learn new technologies and adapt to the ever-evolving landscape of web development. -->
 
