@@ -88,7 +88,7 @@ As a freelancer, I’ve successfully contributed to a financial application for 
 </a>
 
 # Portfolio
-You can see my work here: <a href="[https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=100277303](https://raihanmd.vercel.app)" target="_blank" >https://raihanmd.vercel.app</a>
+You can see my work here: <a href="[https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=100277303](https://raihanmd.vercel.app)" target="_blank">https://raihanmd.vercel.app</a>
 
 # Contact
 You can contact me at: [mraihanf471@gmail.com](mailto:mraihanf471@gmail.com)
