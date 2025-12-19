@@ -44,8 +44,6 @@ As a freelancer, I’ve successfully contributed to a financial application for 
 
 - 💬 Ask me about **NEAR Protocol, Nextjs, Nestjs, Typescript, etc**
 
-- 🤝 I’m looking for help with [NanamiGPT](https://nanami.irfanks.site) -->
-
 <!-- - 👨‍💻 All of my projects are available at <a href="https://raihanmd.vercel.app" target="__blank">https://raihanmd.vercel.app<a/>
 
 - 📫 How to reach me **mraihanf471@gmail.com**
