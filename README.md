@@ -1,5 +1,4 @@
 <!-- <h3 align="center">Hi👋, I'm Muhammad Raihan Firdaus</h3>
-<h3 align="center">A passionate Fullstack developer from Indonesia</h3>
 
 <div id="badges" align="center">
   <a href="https://instagram.com/_raihanmd" target="__blank">
