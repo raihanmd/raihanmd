@@ -43,8 +43,6 @@
 ### :fire: My Stats :
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raihanmd&show_icons=true&locale=en&layout=compact" alt="raihanmd" />
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raihanmd&show_icons=true&locale=en" alt="raihanmd" />
 </div>
 
 ### ❤️‍🔥: My Streak :
