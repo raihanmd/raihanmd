@@ -36,9 +36,6 @@
 - 📫 How to reach me **mraihanf471@gmail.com**
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>
-</div>
 
 ### :fire: My Stats :
 <div>
