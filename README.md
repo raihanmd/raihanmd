@@ -33,7 +33,6 @@
 
 <!-- - 👨‍💻 All of my projects are available at <a href="https://raihanmd.vercel.app" target="__blank">https://raihanmd.vercel.app<a/>
 
-- 📫 How to reach me **mraihanf471@gmail.com**
 
 ### :hammer_and_wrench: Languages and Tools :
 
